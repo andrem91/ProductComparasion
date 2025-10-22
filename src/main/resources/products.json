@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "name": "Samsung Galaxy S24 Ultra",
+    "imageUrl": "https://images.example.com/samsung-s24-ultra.jpg",
+    "description": "Premium flagship smartphone with advanced camera system and S Pen support. Features a stunning 6.8-inch Dynamic AMOLED display with 120Hz refresh rate.",
+    "price": 1199.99,
+    "rating": 4.8,
+    "specifications": {
+      "Brand": "Samsung",
+      "Screen Size": "6.8 inches",
+      "Storage": "256GB",
+      "RAM": "12GB",
+      "Camera": "200MP + 50MP + 12MP + 10MP",
+      "Battery": "5000mAh",
+      "Processor": "Snapdragon 8 Gen 3",
+      "OS": "Android 14"
+    }
+  },
+  {
+    "id": 2,
+    "name": "iPhone 15 Pro Max",
+    "imageUrl": "https://images.example.com/iphone-15-pro-max.jpg",
+    "description": "Apple's most advanced iPhone with titanium design and A17 Pro chip. Includes ProMotion technology and advanced computational photography.",
+    "price": 1199.00,
+    "rating": 4.9,
+    "specifications": {
+      "Brand": "Apple",
+      "Screen Size": "6.7 inches",
+      "Storage": "256GB",
+      "RAM": "8GB",
+      "Camera": "48MP + 12MP + 12MP",
+      "Battery": "4422mAh",
+      "Processor": "A17 Pro",
+      "OS": "iOS 17"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Google Pixel 8 Pro",
+    "imageUrl": "https://images.example.com/pixel-8-pro.jpg",
+    "description": "Google's flagship with advanced AI features and exceptional camera capabilities. Features the new Tensor G3 chip for enhanced machine learning.",
+    "price": 999.00,
+    "rating": 4.7,
+    "specifications": {
+      "Brand": "Google",
+      "Screen Size": "6.7 inches",
+      "Storage": "256GB",
+      "RAM": "12GB",
+      "Camera": "50MP + 48MP + 48MP",
+      "Battery": "5050mAh",
+      "Processor": "Google Tensor G3",
+      "OS": "Android 14"
+    }
+  },
+  {
+    "id": 4,
+    "name": "OnePlus 12",
+    "imageUrl": "https://images.example.com/oneplus-12.jpg",
+    "description": "High-performance flagship with ultra-fast charging and smooth display. Offers excellent value with premium features at a competitive price.",
+    "price": 799.99,
+    "rating": 4.6,
+    "specifications": {
+      "Brand": "OnePlus",
+      "Screen Size": "6.82 inches",
+      "Storage": "256GB",
+      "RAM": "16GB",
+      "Camera": "50MP + 64MP + 48MP",
+      "Battery": "5400mAh",
+      "Processor": "Snapdragon 8 Gen 3",
+      "OS": "OxygenOS 14"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Xiaomi 14 Pro",
+    "imageUrl": "https://images.example.com/xiaomi-14-pro.jpg",
+    "description": "Feature-packed flagship with Leica-tuned cameras and stunning display. Combines cutting-edge technology with competitive pricing.",
+    "price": 899.00,
+    "rating": 4.5,
+    "specifications": {
+      "Brand": "Xiaomi",
+      "Screen Size": "6.73 inches",
+      "Storage": "512GB",
+      "RAM": "12GB",
+      "Camera": "50MP + 50MP + 50MP",
+      "Battery": "4880mAh",
+      "Processor": "Snapdragon 8 Gen 3",
+      "OS": "HyperOS"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Sony Xperia 1 VI",
+    "imageUrl": "https://images.example.com/sony-xperia-1-vi.jpg",
+    "description": "Professional-grade smartphone with 4K display and advanced video recording capabilities. Designed for content creators and photography enthusiasts.",
+    "price": 1099.00,
+    "rating": 4.4,
+    "specifications": {
+      "Brand": "Sony",
+      "Screen Size": "6.5 inches",
+      "Storage": "256GB",
+      "RAM": "12GB",
+      "Camera": "48MP + 12MP + 12MP",
+      "Battery": "5000mAh",
+      "Processor": "Snapdragon 8 Gen 3",
+      "OS": "Android 14"
+    }
+  },
+  {
+    "id": 7,
+    "name": "ASUS ROG Phone 8 Pro",
+    "imageUrl": "https://images.example.com/asus-rog-phone-8-pro.jpg",
+    "description": "Ultimate gaming smartphone with advanced cooling system and 165Hz display. Features AirTrigger controls and massive battery for extended gaming sessions.",
+    "price": 1199.99,
+    "rating": 4.7,
+    "specifications": {
+      "Brand": "ASUS",
+      "Screen Size": "6.78 inches",
+      "Storage": "512GB",
+      "RAM": "16GB",
+      "Camera": "50MP + 13MP + 5MP",
+      "Battery": "5500mAh",
+      "Processor": "Snapdragon 8 Gen 3",
+      "OS": "Android 14"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Motorola Edge 50 Pro",
+    "imageUrl": "https://images.example.com/motorola-edge-50-pro.jpg",
+    "description": "Premium mid-range smartphone with curved display and excellent camera system. Offers flagship features at a competitive price point.",
+    "price": 699.99,
+    "rating": 4.5,
+    "specifications": {
+      "Brand": "Motorola",
+      "Screen Size": "6.7 inches",
+      "Storage": "256GB",
+      "RAM": "12GB",
+      "Camera": "50MP + 13MP + 10MP",
+      "Battery": "4800mAh",
+      "Processor": "Snapdragon 7 Gen 3",
+      "OS": "Android 14"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Nothing Phone (2a)",
+    "imageUrl": "https://images.example.com/nothing-phone-2a.jpg",
+    "description": "Unique design with Glyph Interface lighting system. Delivers clean Android experience with distinctive aesthetics and solid performance.",
+    "price": 449.99,
+    "rating": 4.3,
+    "specifications": {
+      "Brand": "Nothing",
+      "Screen Size": "6.7 inches",
+      "Storage": "256GB",
+      "RAM": "12GB",
+      "Camera": "50MP + 50MP",
+      "Battery": "5000mAh",
+      "Processor": "MediaTek Dimensity 7200 Pro",
+      "OS": "Nothing OS 2.5"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Oppo Find X7 Ultra",
+    "imageUrl": "https://images.example.com/oppo-find-x7-ultra.jpg",
+    "description": "Photography-focused flagship with dual periscope cameras and Hasselblad partnership. Features advanced computational photography and premium build quality.",
+    "price": 1299.00,
+    "rating": 4.6,
+    "specifications": {
+      "Brand": "Oppo",
+      "Screen Size": "6.82 inches",
+      "Storage": "512GB",
+      "RAM": "16GB",
+      "Camera": "50MP + 50MP + 50MP + 50MP",
+      "Battery": "5000mAh",
+      "Processor": "Snapdragon 8 Gen 3",
+      "OS": "ColorOS 14"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Vivo X100 Pro",
+    "imageUrl": "https://images.example.com/vivo-x100-pro.jpg",
+    "description": "Camera-centric flagship with ZEISS optics and advanced image processing. Excellent for photography enthusiasts seeking professional-grade mobile imaging.",
+    "price": 999.99,
+    "rating": 4.5,
+    "specifications": {
+      "Brand": "Vivo",
+      "Screen Size": "6.78 inches",
+      "Storage": "512GB",
+      "RAM": "16GB",
+      "Camera": "50MP + 50MP + 50MP",
+      "Battery": "5400mAh",
+      "Processor": "MediaTek Dimensity 9300",
+      "OS": "Funtouch OS 14"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Realme GT 5 Pro",
+    "imageUrl": "https://images.example.com/realme-gt-5-pro.jpg",
+    "description": "Performance-focused flagship with excellent value proposition. Features fast charging, high refresh rate display, and powerful processor at competitive pricing.",
+    "price": 649.99,
+    "rating": 4.4,
+    "specifications": {
+      "Brand": "Realme",
+      "Screen Size": "6.78 inches",
+      "Storage": "256GB",
+      "RAM": "12GB",
+      "Camera": "50MP + 50MP + 8MP",
+      "Battery": "5400mAh",
+      "Processor": "Snapdragon 8 Gen 3",
+      "OS": "Realme UI 5.0"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Honor Magic 6 Pro",
+    "imageUrl": "https://images.example.com/honor-magic-6-pro.jpg",
+    "description": "AI-powered flagship with advanced eye-tracking technology and exceptional battery life. Features innovative MagicOS with smart features and customization.",
+    "price": 1099.99,
+    "rating": 4.6,
+    "specifications": {
+      "Brand": "Honor",
+      "Screen Size": "6.8 inches",
+      "Storage": "512GB",
+      "RAM": "12GB",
+      "Camera": "50MP + 180MP + 50MP",
+      "Battery": "5600mAh",
+      "Processor": "Snapdragon 8 Gen 3",
+      "OS": "MagicOS 8.0"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Nubia Red Magic 9 Pro",
+    "imageUrl": "https://images.example.com/nubia-red-magic-9-pro.jpg",
+    "description": "Gaming-focused smartphone with built-in cooling fan and shoulder triggers. Designed for mobile gamers seeking maximum performance and responsiveness.",
+    "price": 799.99,
+    "rating": 4.5,
+    "specifications": {
+      "Brand": "Nubia",
+      "Screen Size": "6.8 inches",
+      "Storage": "512GB",
+      "RAM": "16GB",
+      "Camera": "50MP + 50MP + 2MP",
+      "Battery": "6500mAh",
+      "Processor": "Snapdragon 8 Gen 3",
+      "OS": "RedMagic OS 9.0"
+    }
+  },
+  {
+    "id": 15,
+    "name": "ZTE Axon 60 Ultra",
+    "imageUrl": "https://images.example.com/zte-axon-60-ultra.jpg",
+    "description": "Innovative flagship with under-display camera and full-screen design. Offers unique features and competitive specifications at an attractive price point.",
+    "price": 749.99,
+    "rating": 4.3,
+    "specifications": {
+      "Brand": "ZTE",
+      "Screen Size": "6.92 inches",
+      "Storage": "256GB",
+      "RAM": "12GB",
+      "Camera": "64MP + 50MP + 50MP",
+      "Battery": "5000mAh",
+      "Processor": "Snapdragon 8 Gen 2",
+      "OS": "MyOS 14"
+    }
+  }
+]
