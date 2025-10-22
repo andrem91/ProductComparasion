@@ -44,10 +44,11 @@ API RESTful para comparação inteligente de produtos com análise de categorias
 .\mvnw.cmd spring-boot:run
 ```
 
-**Acesse:** http://localhost:8080
+**A aplicação irá rodar na porta 8080:** 
 
 ### Documentação Interativa
-**Swagger UI:** http://localhost:8080/swagger-ui.html
+
+**Swagger UI:** <a href="http://localhost:8080/swagger-ui.html" target="_blank">http://localhost:8080/swagger-ui.html</a>
 
 ---
 
