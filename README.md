@@ -10,7 +10,7 @@ API RESTful para comparação inteligente de produtos com análise de categorias
 
 ## 🔗 Links do Projeto
 
-- **📺 Vídeo Demonstração:** [Assista no YouTube](https://www.youtube.com/watch?v=SEU_VIDEO_ID)
+- **📺 Vídeo Demonstração:** [Assista no YouTube](https://youtu.be/vMLYADI6U4s)
 - **💻 Repositório GitHub:** [https://github.com/andrem91/ProductComparasion](https://github.com/andrem91/ProductComparasion)
 
 ## 📑 Índice
